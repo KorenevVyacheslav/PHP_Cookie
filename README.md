@@ -22,4 +22,4 @@
 
 ## Как открыть/запустить
 
-Клонировать https://github.com/KorenevVyacheslav/PHP_MassivFunction на свой ПК. Скопировать файлы из этой папки в вашу текущую папку локального сервера Open Server Panel и запустить его.
+Клонировать https://github.com/KorenevVyacheslav/PHP_Cookie на свой ПК. Скопировать файлы из этой папки в вашу текущую папку локального сервера Open Server Panel и запустить его.
